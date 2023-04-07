@@ -1,2 +1,6 @@
 Day la file week1.txt
+<<<<<<< HEAD
 Thuoc brand week1 ma thoi
+=======
+Thuoc brand week1 va main
+>>>>>>> main
